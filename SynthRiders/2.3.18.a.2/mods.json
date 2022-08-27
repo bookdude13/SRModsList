@@ -1,6 +1,26 @@
 {
     "availableMods": [
         {
+            "name": "SRVoting",
+            "author": "bookdude13",
+            "description": "Add voting buttons for custom maps in-game",
+            "version": "1.2.0",
+            "downloadUrl": "https://github.com/bookdude13/SRVoting/releases/download/v1.2.0/SRVoting_v1.2.0.zip",
+            "dependencies": [
+                {
+                    "name": "SRModCore",
+                    "author": "bookdude13",
+                    "minVersion": "1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "SRModCore",
+            "author": "bookdude13",
+            "description": "Shared library for various SynthRiders mods",
+            "version": "1.0.0",
+            "downloadUrl": "https://github.com/bookdude13/SRModCore/releases/download/v1.0.0/SRModCore_v1.0.0.zip",
+            "dependencies": []
         }
     ]
 }
