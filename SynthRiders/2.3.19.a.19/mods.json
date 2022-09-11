@@ -94,7 +94,7 @@
                     "downloadUrl": "SRPerformanceMeter/SRPerformanceMeter_1.2.1.synthmod",
                     "dependencies": [
                         {
-                            "id": "SynthRiders-Websockets-Mod",
+                            "id": "SynthRidersWebsocketsMod",
                             "minVersion": "1.0.2"
                         }
                     ]
