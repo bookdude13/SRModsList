@@ -8,7 +8,7 @@
             "versions": [
                 {
                     "version": "1.0.1",
-                    "downloadUrl": "https://github.com/Mondanzo/SRModsList/releases/download/1.0.1/SRModsList.dll",
+                    "downloadUrl": "SRModsList/SRModsList_1.0.1.synthmod",
                     "dependencies": []
                 }
             ]
@@ -34,7 +34,7 @@
             "versions": [
                 {
                     "version": "1.0.0",
-                    "downloadUrl": "https://github.com/Goinn/MultiplayerSongGrabber/releases/download/V1.0.0/MultiplayerSongGrabber.dll",
+                    "downloadUrl": "MultiplayerSongGrabber/MultiplayerSongGrabber_1.0.0.synthmod",
                     "dependencies": []
                 }
             ]
@@ -43,11 +43,11 @@
             "id": "CustomSounds",
             "name": "CustomSounds",
             "author": "Goinn",
-            "description": "Allows you to customize most sounds from Synth Riders [PCVR]",
+            "description": "Allows you to customize most sounds from Synth Riders [PCVR]. Change the files in the new CustomSounds folder in your SynthRiders game directory.",
             "versions": [
                 {
                     "version": "1.1.0",
-                    "downloadUrl": "https://github.com/Goinn/CustomSounds/releases/download/v1.1.0/CustomSound.dll",
+                    "downloadUrl": "CustomSounds/CustomSounds_1.1.0.synthmod",
                     "dependencies": []
                 }
             ]
@@ -60,7 +60,7 @@
             "versions": [
                 {
                     "version": "1.0.0",
-                    "downloadUrl": "https://github.com/bookdude13/SRModCore/releases/download/v1.0.0/SRModCore_v1.0.0.zip",
+                    "downloadUrl": "SRModCore/SRModCore_1.0.0.synthmod",
                     "dependencies": []
                 }
             ]
@@ -73,7 +73,7 @@
             "versions": [
                 {
                     "version": "1.2.0",
-                    "downloadUrl": "https://github.com/bookdude13/SRVoting/releases/download/v1.2.0/SRVoting_v1.2.0.zip",
+                    "downloadUrl": "SRVoting/SRVoting_1.2.0.synthmod",
                     "dependencies": [
                         {
                             "id": "SRModCore",
@@ -91,7 +91,7 @@
             "versions": [
                 {
                     "version": "1.2.1",
-                    "downloadUrl": "https://github.com/bookdude13/SRPerformanceMeter/releases/download/v1.2.1/PerformanceMeter_v1.2.1.zip",
+                    "downloadUrl": "SRPerformanceMeter/SRPerformanceMeter_1.2.1.synthmod",
                     "dependencies": [
                         {
                             "id": "SynthRiders-Websockets-Mod",
@@ -102,14 +102,14 @@
             ]
         },
         {
-            "id": "SynthRiders-Websockets-Mod",
-            "name": "SynthRiders-Websockets-Mod",
+            "id": "SynthRidersWebsocketsMod",
+            "name": "SynthRidersWebsockets",
             "author": "KK964",
             "description": "Emits game events through websockets",
             "versions": [
                 {
                     "version": "1.0.2",
-                    "downloadUrl": "https://github.com/KK964/SynthRiders-Websockets-Mod/releases/download/v1.0.2/SynthRidersWebsockets.zip",
+                    "downloadUrl": "SynthRidersWebsocketsMod/SynthRidersWebsocketsMod_1.0.2.synthmod",
                     "dependencies": []
                 }
             ]
