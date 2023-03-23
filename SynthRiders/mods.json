@@ -123,6 +123,24 @@
                     "dependencies": []
                 }
             ]
+        },
+		{
+            "id": "SRPlaylistManager",
+            "name": "SRPlaylistManager",
+            "author": "bookdude13",
+            "description": "In-game playlist management",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "downloadUrl": "SRPlaylistManager/SRPlaylistManager_1.0.0.synthmod",
+                    "dependencies": [
+                        {
+                            "id": "SRModCore",
+                            "minVersion": "1.0.0"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
