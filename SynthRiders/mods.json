@@ -149,6 +149,16 @@
                             "minVersion": "1.0.0"
                         }
                     ]
+                },
+                {
+                    "version": "1.1.1",
+                    "downloadUrl": "SRPlaylistManager/SRPlaylistManager_1.1.1.synthmod",
+                    "dependencies": [
+                        {
+                            "id": "SRModCore",
+                            "minVersion": "1.0.0"
+                        }
+                    ]
                 }
             ]
         }
