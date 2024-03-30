@@ -184,6 +184,19 @@
                     "dependencies": []
                 }
             ]
+        },
+		{
+            "id": "EasterEggMod",
+            "name": "EasterEggMod",
+            "author": "Nova_Max",
+            "description": "Replace all your orbs with easter eggs",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "downloadUrl": "EasterEggMod/EasterEggMod_1.0.0.synthmod",
+                    "dependencies": []
+                }
+            ]
         }
     ]
 }
