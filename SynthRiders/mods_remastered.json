@@ -15,6 +15,11 @@
                     "version": "2.0.1",
                     "downloadUrl": "SRModCore/SRModCore_2.0.1.synthmod",
                     "dependencies": []
+                },
+                {
+                    "version": "2.1.1",
+                    "downloadUrl": "SRModCore/SRModCore_2.1.1.synthmod",
+                    "dependencies": []
                 }
             ]
         },
@@ -133,6 +138,16 @@
                         {
                             "id": "SRModCore",
                             "minVersion": "2.0.1"
+                        }
+                    ]
+                },
+                {
+                    "version": "2.1.0",
+                    "downloadUrl": "SRMultiplayerSongGrabber/SRMultiplayerSongGrabber_2.1.0.synthmod",
+                    "dependencies": [
+                        {
+                            "id": "SRModCore",
+                            "minVersion": "2.1.1"
                         }
                     ]
                 }
