@@ -163,6 +163,11 @@
                     "version": "2.0.0",
                     "downloadUrl": "Trashbin/Trashbin_2.0.0.synthmod",
                     "dependencies": []
+                },
+                {
+                    "version": "2.1.0",
+                    "downloadUrl": "Trashbin/Trashbin_2.1.0.synthmod",
+                    "dependencies": []
                 }
             ]
         }
