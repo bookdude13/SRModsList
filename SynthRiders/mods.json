@@ -34,7 +34,7 @@
                     "downloadUrl": "SRPerformanceMeter/PerformanceMeter_2.0.0.synthmod",
                     "dependencies": [
                         {
-                            "id": "SynthRidersWebsocketsMod",
+                            "id": "SynthRidersWebsockets",
                             "minVersion": "2.0.0"
                         }
                     ]
@@ -44,7 +44,7 @@
                     "downloadUrl": "SRPerformanceMeter/PerformanceMeter_2.1.0.synthmod",
                     "dependencies": [
                         {
-                            "id": "SynthRidersWebsocketsMod",
+                            "id": "SynthRidersWebsockets",
                             "minVersion": "2.1.0"
                         }
                     ]
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "id": "SynthRidersWebsocketsMod",
+            "id": "SynthRidersWebsockets",
             "name": "SynthRidersWebsockets",
             "author": "KK964,bookdude13",
             "description": "Emits game events through websockets",
