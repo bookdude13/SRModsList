@@ -24,8 +24,8 @@
             ]
         },
         {
-            "id": "SRPerformanceMeter",
-            "name": "PerformanceMeter",
+            "id": "PerformanceMeter",
+            "name": "SRPerformanceMeter",
             "author": "bookdude13",
             "description": "View additional playthrough statistics/info in-game after each song",
             "versions": [
