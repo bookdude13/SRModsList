@@ -50,6 +50,16 @@
                     "dependencies": [
                         {
                             "id": "SynthRidersWebsockets",
+                            "minVersion": "2.1.0"
+                        }
+                    ]
+                },
+                {
+                    "version": "2.2.0",
+                    "downloadUrl": "SRPerformanceMeter/PerformanceMeter_2.2.0.synthmod",
+                    "dependencies": [
+                        {
+                            "id": "SynthRidersWebsockets",
                             "minVersion": "2.2.0"
                         }
                     ]
