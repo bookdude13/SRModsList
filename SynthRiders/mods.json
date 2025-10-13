@@ -50,7 +50,7 @@
                     "dependencies": [
                         {
                             "id": "SynthRidersWebsockets",
-                            "minVersion": "2.1.0"
+                            "minVersion": "2.2.0"
                         }
                     ]
                 }
