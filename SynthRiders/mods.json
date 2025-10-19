@@ -99,6 +99,28 @@
                         {
                             "id": "SRModCore",
                             "minVersion": "2.2.0"
+                        },
+						{
+                            "id": "SRWebsocketsFixDepsPlugin",
+                            "minVersion": "1.0.0"
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "id": "SRWebsocketsFixDepsPlugin",
+            "name": "SRWebsocketsFixDepsPlugin",
+            "author": "bookdude13",
+            "description": "Fixes websocket dependences being out of date in MelonLoader",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "downloadUrl": "SRWebsocketsFixDepsPlugin/SRWebsocketsFixDepsPlugin_1.0.0.synthmod",
+                    "dependencies": [
+                        {
+                            "id": "SRModCore",
+                            "minVersion": "2.2.0"
                         }
                     ]
                 }
